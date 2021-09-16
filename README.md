@@ -1,3 +1,3 @@
 # My Personal Webpage
 
-Power by Jekyll [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) Theme.
+Please visit https://allenyummy.github.io/
