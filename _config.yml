@@ -35,8 +35,11 @@ url: 'https://allenyummy.github.io'
 github:
   username: allenyummy
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
+
+instagram:
+  username: allenyummy
 
 social:
   # Change to your full name.
