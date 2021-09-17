@@ -128,7 +128,6 @@ Output : 4
 
     [[6,7],[5,5],[5,6],[3,4],[3,8],[2,2]]
                                 ^
-    curr_max_defense = 8
     -----
     curr_max_defense = 8
 
