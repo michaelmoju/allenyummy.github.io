@@ -2,7 +2,7 @@
 title: Weekly Progress (39th / 2021)
 author: Yu-Lun Chiang
 date: 2021-09-22 16:40:00 +0800
-categories: [WeeklyProgress, 2021]
+categories: [WeeklyProgress, "2021"]
 tags: [weeklyprogress]
 math: true
 mermaid: true
