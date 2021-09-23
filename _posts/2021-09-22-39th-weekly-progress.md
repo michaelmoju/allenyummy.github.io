@@ -29,7 +29,7 @@ gantt
     section Leetcode
     1992 exercise       : done  , L1, 2021-09-22, 1d
     1992 writing        : active, L2, 2021-09-22, 1d
-    2011 exercise       :         L3, 2021-09-23, 1d
+    2011 exercise       : done  , L3, 2021-09-23, 1d
     2011 writing        :         L4, 2021-09-23, 1d
     2012 exercise       :         L5, 2021-09-24, 1d
     2012 writing        :         L6, 2021-09-24, 1d
