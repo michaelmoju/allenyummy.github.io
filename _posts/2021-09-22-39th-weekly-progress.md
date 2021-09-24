@@ -31,16 +31,16 @@ gantt
     1992 writing        : done  , L2, 2021-09-22, 1d
     2011 exercise       : done  , L3, 2021-09-23, 1d
     2011 writing        :         L4, 2021-09-23, 1d
-    2012 exercise       : done    L5, 2021-09-24, 1d
-    2012 writing        : done    L6, 2021-09-24, 1d
+    2012 exercise       : done  , L5, 2021-09-24, 1d
+    2012 writing        : done  , L6, 2021-09-24, 1d
     2013 exercise       :         L7, 2021-09-25, 1d
     2013 writing        :         L8, 2021-09-25, 1d
 
     section Blog
     experience your life:         B1, 2021-09-19, 7d
-    writing a life post :         B2, 2021-09-20, 3d
-    reading a paper/tech post:    B3, 2021-09-20, 5d
-    writing a tech post :         B2, 2021-09-22, 3d
+    writing a life post : active, B2, 2021-09-20, 3d
+    reading a paper/tech post: done, B3, 2021-09-20, 5d
+    writing a tech post : active, B4, 2021-09-22, 3d
 ```
 
 ---
