@@ -7,6 +7,8 @@ tags: [leetcode, medium, dfs]
 math: true
 ---
 
+[Leetcode #1992](https://leetcode.com/problems/find-all-groups-of-farmland/)
+
 ---
 ## 題目描述
 

@@ -7,6 +7,8 @@ tags: [leetcode, medium, array]
 math: true
 ---
 
+[Leetcode #2012](https://leetcode.com/problems/sum-of-beauty-in-the-array/)
+
 ---
 ## 題目描述
 

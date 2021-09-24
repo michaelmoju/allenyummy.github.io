@@ -7,6 +7,8 @@ tags: [leetcode, medium, array]
 math: true
 ---
 
+[Leetcode #1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+
 ---
 ## 題目描述
 

@@ -7,6 +7,8 @@ tags: [leetcode, medium, string, hashmap]
 math: true
 ---
 
+[Leetcode #1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+
 ---
 ## 題目描述
 
