@@ -28,10 +28,10 @@ gantt
 
     section Leetcode
     198 exercise       : done  , L1, 2021-09-26, 1d
-    198 writing        : active, L2, 2021-09-26, 1d
+    198 writing        : done  , L2, 2021-09-26, 1d
     213 exercise       : done  , L3, 2021-09-27, 1d
     213 writing        : active, L4, 2021-09-27, 1d
-    337 exercise       :         L5, 2021-09-28, 1d
+    337 exercise       : done  , L5, 2021-09-28, 1d
     337 writing        :         L6, 2021-09-28, 1d
     15  exercise       :         L7, 2021-09-29, 1d
     16  writing        :         L8, 2021-09-29, 1d
