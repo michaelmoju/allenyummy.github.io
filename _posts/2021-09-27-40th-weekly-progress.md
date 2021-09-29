@@ -33,7 +33,7 @@ gantt
     213 writing        : active, L4, 2021-09-27, 1d
     337 exercise       : done  , L5, 2021-09-28, 1d
     337 writing        :         L6, 2021-09-28, 1d
-    15  exercise       :         L7, 2021-09-29, 1d
+    15  exercise       : done  , L7, 2021-09-29, 1d
     16  writing        :         L8, 2021-09-29, 1d
     18  exercise       :         L9, 2021-09-30, 1d
     18  writing        :         L10,2021-09-30, 1d
@@ -43,6 +43,6 @@ gantt
     section Blog
     experience your life: active, B1, 2021-09-27, 7d
     writing a life post : active, B2, 2021-09-27, 3d
-    reading a paper/tech post:    B3, 2021-09-28, 5d
-    writing a tech post :         B4, 2021-09-29, 3d
+    reading a paper/tech post: active, B3, 2021-09-28, 5d
+    writing a tech post : done  , B4, 2021-09-29, 3d
 ```
