@@ -34,11 +34,13 @@ gantt
     337 exercise       : done  , L5, 2021-09-28, 1d
     337 writing        :         L6, 2021-09-28, 1d
     15  exercise       : done  , L7, 2021-09-29, 1d
-    16  writing        :         L8, 2021-09-29, 1d
-    18  exercise       :         L9, 2021-09-30, 1d
-    18  writing        :         L10,2021-09-30, 1d
-    454 exercise       :         L11,2021-10-01, 1d
-    454 writing        :         L12,2021-10-01, 1d
+    15  writing        : done  , L8, 2021-09-29, 1d
+    16  exercise       : done  , L9, 2021-09-30, 1d
+    16  writing        :         L10,2021-09-30, 1d
+    18  exercise       : done  , L11,2021-10-01, 1d
+    18  writing        :         L12,2021-10-02, 1d
+    454 exercise       :         L13,2021-10-03, 1d
+    454 writing        :         L14,2021-10-03, 1d
 
     section Blog
     experience your life: active, B1, 2021-09-27, 7d
