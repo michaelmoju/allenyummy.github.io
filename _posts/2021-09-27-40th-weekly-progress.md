@@ -38,13 +38,20 @@ gantt
     16  exercise       : done  , L9, 2021-09-30, 1d
     16  writing        :         L10,2021-09-30, 1d
     18  exercise       : done  , L11,2021-10-01, 1d
-    18  writing        :         L12,2021-10-02, 1d
-    454 exercise       :         L13,2021-10-03, 1d
-    454 writing        :         L14,2021-10-03, 1d
+    18  writing        :         L12,2021-10-01, 1d
+    454 exercise       : done  , L13,2021-10-02, 1d
+    454 writing        :         L14,2021-10-02, 1d
 
     section Blog
-    experience your life: active, B1, 2021-09-27, 7d
+    experience your life: done , B1, 2021-09-27, 7d
     writing a life post : active, B2, 2021-09-27, 3d
-    reading a paper/tech post: active, B3, 2021-09-28, 5d
-    writing a tech post : done  , B4, 2021-09-29, 3d
+    reading a paper/tech post: done, B3, 2021-09-28, 5d
+    writing a tech post : done , B4, 2021-09-29, 3d
 ```
+
+
+---
+
+本週週末女友來找我，我們做了好多事情，一起下廚料理、租 irent 去望幽谷看海吹海風、一起逛好市多、一起去吃日本料理。
+
+我們也互相分享了好多事情，這週末好放鬆，完完全全地充電，雖然有些該完成的寫作沒完成，但是著著實實地 "experience my life"。
