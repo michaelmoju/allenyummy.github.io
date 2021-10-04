@@ -44,10 +44,3 @@ gantt
     reading a paper/tech post: active, B3, 2021-10-04, 5d
     writing a tech post : active , B4, 2021-10-05, 3d
 ```
-
-
----
-
-本週週末女友來找我，我們做了好多事情，一起下廚料理、租 irent 去望幽谷看海吹海風、一起逛好市多、一起去吃日本料理。
-
-我們也互相分享了好多事情，這週末好放鬆，完完全全地充電，雖然有些該完成的寫作沒完成，但是著著實實地 "experience my life"。
