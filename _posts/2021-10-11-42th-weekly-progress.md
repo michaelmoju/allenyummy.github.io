@@ -33,17 +33,17 @@ gantt
 
     section Leetcode
     2033 exercise      : done  , L1, 2021-10-04, 1d
-    2034 exercise      :       , L2, 2021-10-05, 1d
-    2035 exercise      :       , L3, 2021-10-06, 1d
+    2034 exercise      : done  , L2, 2021-10-05, 1d
+    2035 exercise      :         L3, 2021-10-06, 1d
 
     section Blog
     writing a life post : active, B2, 2021-10-06, 3d
     writing a tech post : active , B4, 2021-10-05, 3d
 
     section Interview
-    AI Labs            : done  , I1, 2021-10-12, 1d
-    MTK                :         I2, 2021-10-15, 1d
+    AI Labs 一面三關       : done  , I1, 2021-10-12, 1d
+    MTK 一面一關           : done  , I2, 2021-10-15, 1d
 
     section Reading
-    Pretrained Models  :       , R1, 2021-10-11, 5d
+    Pretrained Models  : done  , R1, 2021-10-11, 5d
 ```
