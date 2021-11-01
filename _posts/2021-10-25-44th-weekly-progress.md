@@ -28,10 +28,10 @@ gantt
 
     section Leetcode
     1557 exercise     : done  , L1, 2021-10-25, 1d
-    959 exercise      :         L2, 2021-10-26, 1d
-    841 exercise      :         L3, 2021-10-27, 1d
-    547 exercies      :         L4, 2021-10-28, 1d
-    1466 exercise     :         L5, 2021-10-29, 1d
+    959 exercise      : done  , L2, 2021-10-26, 1d
+    841 exercise      : done  , L3, 2021-10-27, 1d
+    547 exercies      : done  , L4, 2021-10-28, 1d
+    1466 exercise     : done  , L5, 2021-10-29, 1d
     684 exercise      :         L6, 2021-10-30, 1d
 
     section Blog
