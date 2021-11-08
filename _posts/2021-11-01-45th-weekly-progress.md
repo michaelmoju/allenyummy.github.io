@@ -29,9 +29,9 @@ gantt
 
     section Leetcode
     684 exercise      : done  , L1, 2021-11-01, 1d
-    1135 exercise     :         L2, 2021-11-02, 1d
+    1135 exercise     : done  , L2, 2021-11-02, 1d
     1136 exercise     :         L3, 2021-11-03, 1d
     323 exercies      :         L4, 2021-11-04, 1d
-    1319 exercise     :         L5, 2021-11-05, 1d
+    1319 exercise     : done  , L5, 2021-11-05, 1d
 
 ```
