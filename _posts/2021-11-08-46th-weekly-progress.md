@@ -53,4 +53,7 @@ gantt
     263 exercies      :         L4, 2021-11-11, 1d
     264 exercies      :         L5, 2021-11-12, 1d
 
+    section Interview :
+    AICS 2-nd         :         I1, 2021-11-09, 1d
+
 ```
