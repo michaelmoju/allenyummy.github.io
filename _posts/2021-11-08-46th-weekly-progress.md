@@ -47,13 +47,19 @@ gantt
     axisFormat  %m/%d
 
     section Leetcode
-    204 exercise      :         L1, 2021-11-08, 1d
-    2063 exercise     :         L2, 2021-11-08, 1d
-    2064 exercise     :         L3, 2021-11-10, 1d
-    263 exercies      :         L4, 2021-11-11, 1d
-    264 exercies      :         L5, 2021-11-12, 1d
+    204 exercise      :  done  , L1, 2021-11-08, 1d
+    2063 exercise     :  done  , L2, 2021-11-08, 1d
+    1137 exercise     :  done  , L3, 2021-11-09, 1d
+    119 exercise      :  done  , L4, 2021-11-09, 1d
+    669 exercise      :  done  , L5, 2021-11-09, 1d   
+    1646 exercise     :  done  , L6, 2021-11-09, 1d
+    1395 exercise     :  done  , L7, 2021-11-10, 1d     
+    2064 exercise     :          L8, 2021-11-10, 1d
+    263 exercies      :  done  , L9, 2021-11-11, 1d
+    264 exercies      :          L10, 2021-11-12, 1d
 
     section Interview :
-    AICS 2-nd         :         I1, 2021-11-09, 1d
+    AICS 2-nd         :  done  , I1, 2021-11-09, 1d
+    review dp problems:  done  , I2, 2021-11-09, 1d
 
 ```
